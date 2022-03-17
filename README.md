@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Jeremy</h1>
 <h3>A passionate frontend developer and student at UC San Diego</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.jeremynguyen.dev/](https://www.jeremynguyen.dev/)
+- 👨‍💻 All of my projects are available at [https://www.jeremynguyen.dev/](https://www.jeremynguyen.dev)
 
-- 📫 How to reach me **jeremyn@ucsd.edu**
+- 📫 How to reach me [mailto:info@jeremynguyen.dev](info@jeremynguyen.dev)
 
 - 📄 Know about my experiences [https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf](https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf)
 
