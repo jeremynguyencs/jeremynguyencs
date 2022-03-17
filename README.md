@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jeremynguyen.dev/](https://www.jeremynguyen.dev)
 
-- 📫 How to reach me [mailto:info@jeremynguyen.dev](info@jeremynguyen.dev)
+- 📫 How to reach me [info@jeremynguyen.dev](mailto:info@jeremynguyen.dev)
 
 - 📄 Know about my experiences [https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf](https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf)
 
