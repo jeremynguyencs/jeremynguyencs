@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jeremy</h1>
-<h3>A passionate frontend developer and student at UC San Diego</h3>
+<h3>Mainly frontend developer and student at UC San Diego</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.jeremynguyen.dev/](https://www.jeremynguyen.dev)
 
