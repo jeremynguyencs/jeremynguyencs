@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Jeremy</h1>
-<h3>Mainly frontend developer and student at UC San Diego</h3>
+<h3>Frontend developer and computer science student at UC San Diego</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.jeremynguyen.dev/](https://www.jeremynguyen.dev)
+- 👨‍💻 All of my projects are available at [https://jeremynguyen.dev/](https://jeremynguyen.dev)
 
-- 📫 How to reach me [info@jeremynguyen.dev](mailto:info@jeremynguyen.dev)
+- 📫 How to reach me [hi@jeremynguyen.dev](mailto:hi@jeremynguyen.dev)
 
-- 📄 Know about my experiences [https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf](https://www.jeremynguyen.dev/static/media/Jeremy_Nguyen_Resume.ddcfef20.pdf)
+- 📄 Know about my experiences [jeremynguyen.dev/resume.pdf](https://jeremynguyen.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
