@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jeremy</h1>
 <h3>Frontend developer and computer science student at UC San Diego</h3>
 
-- 👨‍💻 All of my projects are available at [https://jeremynguyen.dev/](https://jeremynguyen.dev)
+- 👨‍💻 All of my projects are available at [https://jeremynguyen.dev](https://jeremynguyen.dev)
 
 - 📫 How to reach me [hi@jeremynguyen.dev](mailto:hi@jeremynguyen.dev)
 
